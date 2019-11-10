@@ -1,6 +1,6 @@
 # Times-Table-App
 
-This is a Times Table App where you can select any number between 1-30 and table of that number will appeared below that.
+This is a Times Table App where you can select any number between 1-30 and table of that number will appear below that.
 
 Functions:-
 
