@@ -12,4 +12,4 @@ Table of that number will appear.
 Features:-
 
 -> Seek bar to select any number between 1-30. 
-->  List view to show tabel of selected number.
+->  List view to show table of selected number.
